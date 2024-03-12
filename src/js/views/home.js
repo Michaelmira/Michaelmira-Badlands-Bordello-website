@@ -48,84 +48,84 @@ export const Home = () => (
 				<div className="tab-pane fade" id="gallery" role="tabpanel" aria-labelledby="gallery">
 					<div className="container-fluid text-center d-flex justify-content-center">
 						<div className="row">
-							<div className="col border p-0 pb-1">
-								<img className="bbGalleryPic" src="https://i.ibb.co/fX4M85f/1frontage2017.jpg" />
+							<div className="col-md-4 p-0">
+								<img className="bbGalleryPic img-fluid"  style={{ width: '100%' }} src="https://i.ibb.co/fX4M85f/1frontage2017.jpg" />
 							</div>
-							<div className="col border p-0 pb-1">
-								<img className="bbGalleryPic" src="https://i.ibb.co/YjqzBD0/2groupphoto2017.jpg" />
+							<div className="col-md-4 p-0">
+								<img className="bbGalleryPic img-fluid "  style={{ width: '100%' }} src="https://i.ibb.co/YjqzBD0/2groupphoto2017.jpg" />
 							</div>
-							<div className="col border p-0 pb-1">
-								<img className="bbGalleryPic" src="https://i.ibb.co/NZHMBKp/3-Wavelink1.jpg" />
-							</div>
-						</div>
-						<div className="row">
-							<div className="col border p-0 pb-1">
-								<img className="bbGalleryPic"  src="https://i.ibb.co/qpz2DD6/4-Interiorparty.jpg" />
-							</div>
-							<div className="col border p-0 pb-1">
-								<img className="bbGalleryPic" src="https://i.ibb.co/fNYnQYq/5photoOp.jpg" />
-							</div>
-							<div className="col border p-0 pb-1">
-								<img className="bbGalleryPic" src="https://i.ibb.co/ryXdZnX/6-Wavelink2.jpg" />
+							<div className="col-md-4 p-0">
+								<img className="bbGalleryPic img-fluid "  style={{ width: '100%' }} src="https://i.ibb.co/NZHMBKp/3-Wavelink1.jpg" />
 							</div>
 						</div>
 						<div className="row">
-							<div className="col border p-0 pb-1">
-								<img className="bbGalleryPic" src="https://i.ibb.co/kyBS1dY/7-Wavelink3.jpg" />
+							<div className="col-md-4 p-0">
+								<img className="bbGalleryPic img-fluid "  style={{ width: '100%' }}  src="https://i.ibb.co/qpz2DD6/4-Interiorparty.jpg" />
 							</div>
-							<div className="col border p-0 pb-1">
-								<img class="bbGalleryPic" src="https://i.ibb.co/L82LC25/8-Frontage-And-Wavelink.jpg" />
+							<div className="col-md-4 p-0">
+								<img className="bbGalleryPic img-fluid "  style={{ width: '100%' }} src="https://i.ibb.co/fNYnQYq/5photoOp.jpg" />
 							</div>
-							<div class="col border p-0 pb-1">
-								<img class="bbGalleryPic" src="https://i.ibb.co/Y23Vcnb/9-Interior1.jpg" />
+							<div className="col-md-4 p-0">
+								<img className="bbGalleryPic img-fluid "  style={{ width: '100%' }} src="https://i.ibb.co/ryXdZnX/6-Wavelink2.jpg" />
+							</div>
+						</div>
+						<div className="row">
+							<div className="col-md-4 p-0">
+								<img className="bbGalleryPic img-fluid "  style={{ width: '100%' }} src="https://i.ibb.co/kyBS1dY/7-Wavelink3.jpg" />
+							</div>
+							<div className="col-md-4 p-0">
+								<img class="bbGalleryPic img-fluid " style={{ width: '100%' }} src="https://i.ibb.co/L82LC25/8-Frontage-And-Wavelink.jpg" />
+							</div>
+							<div class="col-md-4 p-0">
+								<img class="bbGalleryPic img-fluid " style={{ width: '100%' }} src="https://i.ibb.co/Y23Vcnb/9-Interior1.jpg" />
 							</div>
 						</div>
 					</div>
 					<div class="container-fluid text-center d-flex justify-content-center">
 						<div class="row">
-							<div class="col border p-0 pb-1">
-								<img class="bbGalleryPic" src="https://i.ibb.co/F3KJ03P/10-Wavelink4.jpg" />
+							<div class="col-md-4 p-0">
+								<img class="bbGalleryPic img-fluid " style={{ width: '100%' }} src="https://i.ibb.co/F3KJ03P/10-Wavelink4.jpg" />
 							</div>
-							<div class="col border p-0 pb-1">
-								<img class="bbGalleryPic" src="https://i.ibb.co/z7QPcBN/11-Interior2.jpg" />
+							<div class="col-md-4 p-0">
+								<img class="bbGalleryPic img-fluid " style={{ width: '100%' }} src="https://i.ibb.co/z7QPcBN/11-Interior2.jpg" />
 							</div>
-							<div class="col border p-0 pb-1">
-								<img class="bbGalleryPic" src="https://i.ibb.co/bvYrFWX/12-Wavelink5.jpg" />
-							</div>
-						</div>
-						<div class="row">
-							<div class="col border p-0 pb-1">
-								<img class="bbGalleryPic" src="https://i.ibb.co/nRk87X1/13-Interior3.jpg" />
-							</div>
-							<div class="col border p-0 pb-1">
-								<img class="bbGalleryPic" src="https://i.ibb.co/h977Gf6/14-Waveline-And-Disco-Fish.jpg" />
-							</div>
-							<div class="col border p-0 pb-1">
-								<img class="bbGalleryPic" src="https://i.ibb.co/9VpP4BC/15-Door-Solo.jpg" />
+							<div class="col-md-4 p-0">
+								<img class="bbGalleryPic img-fluid " style={{ width: '100%' }} src="https://i.ibb.co/bvYrFWX/12-Wavelink5.jpg" />
 							</div>
 						</div>
 						<div class="row">
-							<div class="col border p-0 pb-1">
-								<img class="bbGalleryPic" src="https://i.ibb.co/1XZXgd8/16-Interior4.jpg" />
+							<div class="col-md-4 p-0">
+								<img class="bbGalleryPic img-fluid " style={{ width: '100%' }} src="https://i.ibb.co/nRk87X1/13-Interior3.jpg" />
 							</div>
-							<div class="col border p-0 pb-1">
-								<img class="bbGalleryPic" src="https://i.ibb.co/C1ywVGz/17-interior5.jpg" />
+							<div class="col-md-4 p-0">
+								<img class="bbGalleryPic img-fluid " style={{ width: '100%' }} src="https://i.ibb.co/h977Gf6/14-Waveline-And-Disco-Fish.jpg" />
 							</div>
-							<div class="col border p-0 pb-1">
-								<img class="bbGalleryPic" src="https://i.ibb.co/0hMfBWJ/18interior6.jpg" />
+							<div class="col-md-4 p-0">
+								<img class="bbGalleryPic img-fluid " style={{ width: '100%' }} src="https://i.ibb.co/9VpP4BC/15-Door-Solo.jpg" />
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-md-4 p-0">
+								<img class="bbGalleryPic img-fluid " style={{ width: '100%' }} src="https://i.ibb.co/1XZXgd8/16-Interior4.jpg" />
+							</div>
+							<div class="col-md-4 p-0">
+								<img class="bbGalleryPic img-fluid " style={{ width: '100%' }} src="https://i.ibb.co/C1ywVGz/17-interior5.jpg" />
+							</div>
+							<div class="col-md-4 p-0">
+								<img class="bbGalleryPic img-fluid " style={{ width: '100%' }} src="https://i.ibb.co/0hMfBWJ/18interior6.jpg" />
 							</div>
 						</div>
 					</div>
 					<div class="container-fluid text-center d-flex justify-content-center">
 						<div class="row">
-							<div class="col border p-0 pb-1">
-								<img class="bbGalleryPic" src="https://i.ibb.co/J3MWb4L/19interior7.jpg" />
+							<div class="col-md-4 p-0">
+								<img class="bbGalleryPic img-fluid " style={{ width: '100%' }} src="https://i.ibb.co/J3MWb4L/19interior7.jpg" />
 							</div>
-							<div class="col border p-0 pb-1">
-								<img class="bbGalleryPic" src="https://i.ibb.co/26HWv5x/20people.jpg" />
+							<div class="col-md-4 p-0">
+								<img class="bbGalleryPic img-fluid " style={{ width: '100%' }} src="https://i.ibb.co/26HWv5x/20people.jpg" />
 							</div>
-							<div class="col border p-0 pb-1">
-								<img class="bbGalleryPic" src="https://i.ibb.co/wK6fN3v/21people2.jpg" />
+							<div class="col-md-4 p-0">
+								<img class="bbGalleryPic img-fluid " style={{ width: '100%' }} src="https://i.ibb.co/wK6fN3v/21people2.jpg" />
 							</div>
 						</div>
 					</div>
