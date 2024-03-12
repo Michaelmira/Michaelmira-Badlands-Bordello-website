@@ -18,21 +18,23 @@ export const Navbar = () => {
 								Join our Email List!
 							</button>
 						</div>
-					</div>
-					<div className="col-md-auto">
-						<div className="collapse navbar-collapse" id="navbarNavDropdown">
-							<ul className="navbar-nav">
-								<li className="nav-item dropdown "/>
-								<a className="nav-link dropdown-toggle border btn-secondary text-light btn-sm pt-0 pb-0 " href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+					
+						<div className="col-md-auto">
+							<div className="collapse navbar-collapse" id="navbarNavDropdown">
+								<ul className="navbar-nav">
+									<li className="nav-item dropdown "/>
+									<a className="nav-link dropdown-toggle border btn-secondary text-light btn-sm pt-0 pb-0 " href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
 									<i className="fa-solid fa-gear pt-2 pb-2"></i>
-								</a>
-							</ul>
-							<ul className="dropdown-menu dropdown-menu-end">
-								<li><a className="dropdown-item" href="#">Profile</a></li>
-								<li><a className="dropdown-item" href="#">Accessibility</a></li>
-								<li><a className="dropdown-item" href="#">Security and Data</a></li>
-								<li><a className="dropdown-item" href="#">Log out</a></li>
-							</ul>  		
+									</a>
+								
+									<ul className="dropdown-menu dropdown-menu-end">
+										<li><a className="dropdown-item" href="#">Profile</a></li>
+										<li><a className="dropdown-item" href="#">Accessibility</a></li>
+										<li><a className="dropdown-item" href="#">Security and Data</a></li>
+										<li><a className="dropdown-item" href="#">Log out</a></li>
+									</ul>
+								</ul>  		
+							</div>
 						</div>
 					</div>
 				</form>
