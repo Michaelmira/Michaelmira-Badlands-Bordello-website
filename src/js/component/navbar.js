@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 export const Navbar = () => {
 	return (
 		
-		<nav className="navbar navbar-expand-lg mb-2 pt-1 pb-0"style={{ backgroundColor: 'rgb(204, 126, 84)' }}>
+		<nav className="navbar sticky-top navbar-expand-lg mb-2 pt-2 pb-0"style={{ backgroundColor: 'rgb(204, 126, 84)' }}>
 			<div className="container-fluid">
 				<span className="navbar-brand text-black">
 					<h4 style={{ fontFamily: 'Pacifico', fontWeight: 'light' }} className="fw-light">
@@ -12,7 +12,7 @@ export const Navbar = () => {
 					</h4>
 				</span>
 				<form>
-					<div className="row">
+					<div className="row pb-2">
 						<div className="col-md-auto">
 							<button type="button" className="btn btn-success text-white btn-sm" data-bs-toggle="modal" data-bs-target="#exampleModal">
 								Join our Email List!
