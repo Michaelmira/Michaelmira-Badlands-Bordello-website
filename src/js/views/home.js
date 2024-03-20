@@ -47,7 +47,7 @@ export const Home = () => (
 				</div>
 				<div className="tab-pane fade" id="gallery" role="tabpanel" aria-labelledby="gallery">
 					
-						<div className="d-flex">
+						<div className="d-flex justify-content-center">
 							<div className="">
 								<img className="bbGalleryPic" style={{ width: '508px' }} src="https://i.ibb.co/fX4M85f/1frontage2017.jpg" />
 							</div>
@@ -58,7 +58,7 @@ export const Home = () => (
 								<img className="bbGalleryPic " style={{ width: '508px' }} src="https://i.ibb.co/NZHMBKp/3-Wavelink1.jpg" />
 							</div>
 						</div>
-						<div className="d-flex">
+						<div className="d-flex justify-content-center">
 							<div className="">
 								<img className="bbGalleryPic " style={{ width: '508px' }}  src="https://i.ibb.co/qpz2DD6/4-Interiorparty.jpg" />
 							</div>
@@ -69,7 +69,7 @@ export const Home = () => (
 								<img className="bbGalleryPic " style={{ width: '508px' }} src="https://i.ibb.co/ryXdZnX/6-Wavelink2.jpg" />
 							</div>
 						</div>
-						<div className="d-flex">
+						<div className="d-flex justify-content-center">
 							<div className="">
 								<img className="bbGalleryPic " style={{ width: '508px' }} src="https://i.ibb.co/kyBS1dY/7-Wavelink3.jpg" />
 							</div>
@@ -82,7 +82,7 @@ export const Home = () => (
 						</div>
 					
 					
-						<div class="d-flex">
+						<div class="d-flex justify-content-center">
 							<div class="">
 								<img class="bbGalleryPic "style={{ width: '508px' }} src="https://i.ibb.co/F3KJ03P/10-Wavelink4.jpg" />
 							</div>
@@ -93,7 +93,7 @@ export const Home = () => (
 								<img class="bbGalleryPic "style={{ width: '508px' }} src="https://i.ibb.co/bvYrFWX/12-Wavelink5.jpg" />
 							</div>
 						</div>
-						<div class="d-flex">
+						<div class="d-flex justify-content-center">
 							<div class="">
 								<img class="bbGalleryPic "style={{ width: '508px' }} src="https://i.ibb.co/nRk87X1/13-Interior3.jpg" />
 							</div>
@@ -104,7 +104,7 @@ export const Home = () => (
 								<img class="bbGalleryPic "style={{ width: '508px' }} src="https://i.ibb.co/9VpP4BC/15-Door-Solo.jpg" />
 							</div>
 						</div>
-						<div class="d-flex">
+						<div class="d-flex justify-content-center">
 							<div class="">
 								<img class="bbGalleryPic "style={{ width: '508px' }} src="https://i.ibb.co/1XZXgd8/16-Interior4.jpg" />
 							</div>
@@ -117,7 +117,7 @@ export const Home = () => (
 						</div>
 					
 					
-						<div class="d-flex">
+						<div class="d-flex justify-content-center">
 							<div class="">
 								<img class="bbGalleryPic "style={{ width: '508px' }} src="https://i.ibb.co/J3MWb4L/19interior7.jpg" />
 							</div>
